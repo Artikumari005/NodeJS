@@ -1,4 +1,4 @@
-# Node.js 🚀(Day 6)
+# Node.js 🚀(Day 7)
 
 ![Libuv](https://raw.githubusercontent.com/Artikumari005/Portfolio/dd3cc1eb9de08e2375bf2646226e43a2a8398181/portfolio-aarti/node.webp)
 
@@ -8,6 +8,8 @@
 *Day 5 - Learned how synchronous and asynchronous code works in Node.js, understood the roles of V8 and Libuv, explored how Node.js handles async operations internally, and discovered why setTimeout(fn, 0) does not execute immediately.
 
 *Day6 - Today I learned about the V8 Engine internals and then did a deep dive into libuv and the Node.js Event Loop, including how asynchronous execution works, event loop phases, microtasks, and callback handling.
+
+*Day 7 - Today I learned how Node.js uses libuv, epoll, the event loop, thread pool, event emitters, streams, and buffers to build a scalable event-driven asynchronous runtime.
 
 # Source of learning 
 -follow Akshay Saini (ex developer )
