@@ -1,4 +1,4 @@
-# Node.js 🚀(Day 8)
+# Node.js 🚀(Day 9)
 
 ![Libuv](https://raw.githubusercontent.com/Artikumari005/Portfolio/dd3cc1eb9de08e2375bf2646226e43a2a8398181/portfolio-aarti/node.webp)
 
@@ -12,6 +12,8 @@
 *Day 7 - Today I learned how Node.js uses libuv, epoll, the event loop, thread pool, event emitters, streams, and buffers to build a scalable event-driven asynchronous runtime.
 
 *Day 8 - Learned how to create a basic Node.js HTTP server and handle routes using the built-in http module.
+
+*Day 9- Learn about different types of database and see how we can connect the mongodb with node.js.
 
 # Source of learning 
 -follow Akshay Saini (ex developer )
