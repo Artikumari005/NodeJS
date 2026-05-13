@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "![Libuv](https://raw.githubusercontent.com/Artikumari005/Portfolio/dd3cc1eb9de08e2375bf2646226e43a2a8398181/portfolio-aarti/node.webp)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artikumari005/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Artikumari005/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Artikumari005/NodeJS#readme",
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}
